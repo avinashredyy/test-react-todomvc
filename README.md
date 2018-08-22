@@ -14,4 +14,4 @@
    5. Paste this(git clone https://github.com/avinashredyy/test-react-todomvc.git) in the command line and press enter
    6. Change Directory or move into the project folder.
    7. Type 'npm install' and press enter. 
-   8. Type 'npm start' and press enter.(The app will automatically start on port 3000).
+   8. Type 'npm start' and press enter.(The app will automatically start on port 3000)..
